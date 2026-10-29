@@ -1,0 +1,76 @@
+Guided Lab: Personal Portfolio
+Checkpoint Responses
+
+Downloaded: 10/28/2026, 6:10:20 PM
+
+Lesson 1: Plan the portfolio
+Question:
+No checkpoint question for this lesson.
+
+Student response:
+[No response saved]
+
+----------------------------------------
+
+Lesson 2: Create the Home Page
+Question:
+Is <div> a semantic element? Why or why not?
+
+Student response:
+No it is not semantic because it doesn't tell the browser about anything it contains
+
+----------------------------------------
+
+Lesson 3: Add Home Page Content
+Question:
+Is the footer optional in all assignments and exams?
+
+Student response:
+No the footer must be present in all assignments and exams
+
+----------------------------------------
+
+Lesson 4: Add External Stylesheet
+Question:
+Why is an external stylesheet usually easier to maintain than many inline styles?
+
+Student response:
+with inline styles, if you want multiple different elements to share the same style you would need to assign it to each individually which takes longer and is error prone. While with an external stylesheet you could make a syle and have each element reference this one style to all be the same.
+
+----------------------------------------
+
+Lesson 5: Style Home Page
+Question:
+Examine the code below. What to do to display the content of both div elements next to each other?
+
+Student response:
+use a flexbox and set <section> to follow the style
+
+----------------------------------------
+
+Lesson 6: Create the About page
+Question:
+Explain the difference between an ID selector and a class selector in CSS. When would you use each one?
+
+Student response:
+ID selector targets a specific element while class selectors target multiple
+
+----------------------------------------
+
+Lesson 7: Create the Contact page
+Question:
+What information does the title attribute provide when an iframe embeds a contact form?
+
+Student response:
+Gives a description to the browser for screen readers
+
+----------------------------------------
+
+Lesson 8: Use online fonts
+Question:
+Why should decorative online fonts usually be limited to headings instead of all body text?
+
+Student response:
+to make user readability easier for anyone viewing the site
+
+----------------------------------------
